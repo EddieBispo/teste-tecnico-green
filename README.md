@@ -8,6 +8,8 @@ Este projeto consiste em uma API desenvolvida com **Laravel** no backend, focada
 - **Laravel**: Framework PHP para desenvolvimento web.
 - **MySQL**: Sistema de gerenciamento de banco de dados.
 - **Composer**: Gerenciador de dependências para PHP.
+- **Vue.js**: Framework JavaScript para construção da interface de usuário (frontend).
+- **Node.js e NPM**: Utilizados para gerenciar dependências e executar o servidor de desenvolvimento Vue.js.
 
 ## Requisitos
 
@@ -15,8 +17,11 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas no seu 
 
 - PHP 7.4 ou superior
 - Composer
-- MySQL (ou outro banco de dados compatível com o Laravel)
+- MySQL
 - Git
+- Node.js
+- NPM
+
 
 ## Instalação Back-end
 
